@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tp9 - 6706144102</string>
+
+    <string name="api_failed">Gagal mengambil data dari database</string>
+    <string name="menu_add">Tambah</string>
+
+    <string name="dialog_title">Tambah Data</string>
+    <string name="dialog_cancel">Batal</string>
+    <string name="dialog_save">Simpan</string>
+
+    <string name="dialog_title_edit">Ubah data</string>
+
+    <string name="fill_name">Tidak boleh kosong</string>
+    <string name="placeholder">Masukkan nama hewan</string>
+
+    <string name="success_new">Hewan baru berhasil ditambahkan</string>
+    <string name="success_update">Data behasil di perbarui</string>
+    <string name="success_deleted">Data berhaasil dihapus</string>
+
+    <string name="data_restored">Data dikembalikan</string>
+
+    <string name="undo">Batal</string>
+
+    <string name="open_browser">Lihat di browser</string>
+
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Hapus</string>
+
+    <string name="detail_lihat">Anda telah melihat </string>
+
+</resources>
